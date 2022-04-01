@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "474c982e-e366-416d-873a-443f02ed0364": {
+      "ProjectGuid": "474c982e-e366-416d-873a-443f02ed0364",
+      "DisplayName": "StaticLesson",
+      "ColorIndex": 0
+    },
+    "07968826-3d2b-45f6-9e12-9031bd78e756": {
+      "ProjectGuid": "07968826-3d2b-45f6-9e12-9031bd78e756",
+      "DisplayName": "Extention",
+      "ColorIndex": 1
+    },
+    "727d52ce-8f99-480f-8e36-38ee26d89b6d": {
+      "ProjectGuid": "727d52ce-8f99-480f-8e36-38ee26d89b6d",
+      "DisplayName": "Task",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
